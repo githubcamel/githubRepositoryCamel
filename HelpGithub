@@ -9,3 +9,5 @@
 --> Basic Commands applied others Repos (git clone, git fetch, git pull, git remote prune) : https://help.github.com/articles/fetching-a-remote
 
 --> Branches - for operations toward branches use "git checkout". "Checkout" man page : http://git-scm.com/docs/git-checkout
+
+--> Merge man page : http://git-scm.com/docs/git-merge
