@@ -10,4 +10,8 @@
 
 --> Branches - for operations toward branches use "git checkout". "Checkout" man page : http://git-scm.com/docs/git-checkout
 
---> Merge man page : http://git-scm.com/docs/git-merge
+--> "commit" man page : http://git-scm.com/docs/git-commit
+
+--> "stash" man page - use When exist conflicts with different versions of files : http://git-scm.com/docs/git-stash
+
+--> "merge" man page : http://git-scm.com/docs/git-merge
